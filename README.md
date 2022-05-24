@@ -1,3 +1,7 @@
-# test_1
+# dot-simple
 
-Soon, will be added
+` This the basic NPM Package for the personal Use. `
+`It contains following methods`
+
+ - testType(data) : string
+ - contains(data, pattern ): bool
