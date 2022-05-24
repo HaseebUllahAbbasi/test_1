@@ -1,0 +1,19 @@
+{
+  "name": "@haseebullahabbasi/test_1",
+  "version": "1.0.0",
+  "description": "soon, will be added",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaseebUllahAbbasi/test_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaseebUllahAbbasi/test_1/issues"
+  },
+  "homepage": "https://github.com/HaseebUllahAbbasi/test_1#readme"
+}
